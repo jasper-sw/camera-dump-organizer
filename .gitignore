@@ -1,0 +1,9 @@
+venv
+.DS_Store
+.idea
+__pycache__
+*.pyc
+*.csv
+*.zip
+*.bak
+db.sqlite3
